@@ -33,10 +33,10 @@ The AWS End-to-End Machine Learning Project was designed to establish a comprehe
 - **Outcome**: Automated deployment processes, reducing time-to-market and ensuring efficient project execution.
 
 ## Prerequisites
-- 1. Python 3.7+
-- 2. Visual Studio Code
-- 3. GitHub Account
-- 4. AWS Account
+- Python 3.7+
+- Visual Studio Code
+- GitHub Account
+- AWS Account
  
 ## Impact
 - Enhanced data modeling accuracy with predictions of math scores achieving up to 88% precision.
